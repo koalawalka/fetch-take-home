@@ -2,12 +2,6 @@
 ## Description
 This implements the take home assignment detailed [here](https://github.com/fetch-rewards/receipt-processor-challenge#rules). This application uses [NestJS](https://docs.nestjs.com) which is a NodeJS framework written in typescript.
 
-## Installation
-
-```bash
-$ npm install
-```
-
 ## Running the app
 The application can be run through docker using the following commands.
 ```bash
